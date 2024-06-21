@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/fabianunix/esp/projects/mcpwm_servo_control/build/CMakeFiles/bootloader
+/home/fabianunix/esp/projects/mcpwm_servo_control/build/CMakeFiles/bootloader.rule
+/home/fabianunix/esp/projects/mcpwm_servo_control/build/CMakeFiles/bootloader-complete.rule
+/home/fabianunix/esp/projects/mcpwm_servo_control/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/fabianunix/esp/projects/mcpwm_servo_control/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/fabianunix/esp/projects/mcpwm_servo_control/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/fabianunix/esp/projects/mcpwm_servo_control/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/fabianunix/esp/projects/mcpwm_servo_control/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/fabianunix/esp/projects/mcpwm_servo_control/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/fabianunix/esp/projects/mcpwm_servo_control/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
